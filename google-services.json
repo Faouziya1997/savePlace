@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368523463052",
+    "firebase_url": "https://saveplace-c0f70-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "saveplace-c0f70",
+    "storage_bucket": "saveplace-c0f70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368523463052:android:5d9ab76f27be750619eea9",
+        "android_client_info": {
+          "package_name": "com.faouzi.savePlace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368523463052-98ikvq8eqjd4pn81qeclvfr96oa4kul2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXAAkRQ_Jk7Z7UkfDMHatLTVK-832agoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368523463052-98ikvq8eqjd4pn81qeclvfr96oa4kul2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
